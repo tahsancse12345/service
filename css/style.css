@@ -1,0 +1,174 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+    max-width: 100%;
+}
+body{
+
+}
+header{
+
+}
+.test{
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+
+}
+.logo img a{
+
+}
+.banner-section{
+        text-align: center; 
+        padding: 50px 0px;
+        
+        background-image: url(../images/hill.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: multiply;
+        background-color: #376767fa;
+        
+}
+}
+.banner-content{
+       
+        
+}
+.banner-content h1{
+	
+	padding-bottom: 70px;
+    margin-top: 40px;
+    color: #ceae39fa;
+}
+.banner-content img{
+       width: 600px;
+       display: block;
+       margin: auto;
+
+}
+.btn{
+	
+	background-color: #e88ddd;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+	display: inline-block;
+	color: white;
+    
+}
+nav{
+   width: 80%;
+   float: left;
+}
+nav ul{
+	list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+
+
+
+    
+}
+nav ul li{
+
+}
+nav ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 20px;
+	display: block;
+    color: #737efb;
+
+}
+
+}
+.footer-section{
+	padding: 50px 0px;
+	
+}
+.coll{
+	float: left;
+	width: 25%;
+}
+.widget h4{
+	text-decoration: none;
+	font-size: 30px;
+	color: green;
+	text-transform: uppercase;
+
+
+}
+.widget li{
+	list-style-type: none;
+	padding: 10px;
+	text-transform: capitalize;
+
+}
+.widget li a{
+	text-decoration: none;
+	font-size: 20px;
+	padding-top: 10px;
+	
+	
+}
+.copyright{
+     text-align: center;
+     border-top: 1px solid red;
+     padding-top: 20px;
+  
+}
+.copyright p{
+      color: red;
+}
+.copyright p a{
+      text-transform: uppercase;
+}
+
+
+.col{
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding: 60px;
+
+}
+.coll3{
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding: 60px;
+
+}
+.service-section{
+	background-color: #b5aebb59;
+}
+.service h1{
+	color: green;
+	font-size: 40px;
+	padding-left: 50px;
+
+}
+.service ul{
+       padding-left: 50px;
+       padding-bottom: 20px;
+}
+.service ul li{
+	color: black;
+	font-size: 20px;
+
+
+}
+.service{
+
+}
+
